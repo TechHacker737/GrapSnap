@@ -15,7 +15,7 @@ printf "\e[1;92m | |      | (   ) || |   | |\e[0m\e[1;77m| (      | (   ) |   | 
 printf "\e[1;92m | (____/\| )   ( || )   ( |\e[0m\e[1;77m| )      | )   ( |___) (___/\____) || )   ( |\e[0m\n"
 printf "\e[1;92m (_______/|/     \||/     \|\e[0m\e[1;77m|/       |/     \|\_______/\_______)|/     \|\e[0m\n"
 printf " \e[1;93m GrapSnap Ver 1.0 \e[0m \n"
-printf " \e[1;77m youtube.com/techhacker7 \e[0m \n"
+printf " \e[1;77m www.youtube.com/techhacker7 \e[0m \n"
 
 printf "\n"
 
